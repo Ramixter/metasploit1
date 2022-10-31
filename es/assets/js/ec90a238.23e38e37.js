@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmetasploit_1=self.webpackChunkmetasploit_1||[]).push([[4745],{4013:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/metasploit1/es/blog/tags/hola","allTagsPath":"/metasploit1/es/blog/tags","count":1}')}}]);
